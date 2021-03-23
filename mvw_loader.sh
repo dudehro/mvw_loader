@@ -35,7 +35,7 @@ do
 			fi
 		fi
 	done
-done<feeds.txt
+done<"$SCRIPT_PATH"/feeds.txt
 
 
 exit 0
